@@ -13,13 +13,11 @@
 
 |          |      甲       |               乙               |    丙     |                  丁                  |    戊    |    己     |         庚         |  辛  |  壬  |  癸  |
 |  :----:  |  -----------  |  ----------------------------  |  -------  |  ----------------------------------  |  ------  |  -------  |  ----------------  |  --  |  --  |  --  |
-|   **基础**   | :coffee: Java | :globe_with_meridians: JavaWEB |   ⚠️ JVM |   :building_construction: 设计模式 |      |  |            |      |      |      |
-|   **算法**   | 📏 数据结构 |           📐 算法           |     |                               |    |    |  |      |      |      |
-| **框架** | :leaves: Spring | :baby_chick: MyBatis | :no_entry_sign: shiro |  |  |  |  | | | |
-| **数据库** | :floppy_disk: 数据库 | :dolphin: MySQL |  |  |  |  |  | | | |
-| **操作系统** | :computer: 操作系统 | :penguin: Linux |  |  |  |  |  | | | |
-| **计算机网络** | ☁️ 计算机网络 |  |  |  |  |  |  | | | |
-| **缓存** | ⌛️ 缓存 |  |  |  |  |  |  | | | |
+|   基础   | :coffee: Java | :globe_with_meridians: JavaWEB | :warning:  JVM |   :building_construction: 设计模式 | :straight_ruler: 数据结构 | :triangular_ruler: 算法 |            |      |      |      |
+| 框架 | :leaves: Spring | :baby_chick: MyBatis | :no_entry_sign: shiro |  |  |  |  | | | |
+| 存储 | :floppy_disk: 数据库 | :dolphin: MySQL | :hourglass: 缓存 |  |  |  |  | | | |
+| 系统 | :computer: 操作系统 | :penguin: Linux |  |  |  |  |  | | | |
+| 网络 | ☁️ 计算机网络 |  |  |  |  |  |  | | | |
 
 ### [Java](./docs/Java.md)
 
