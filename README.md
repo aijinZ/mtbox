@@ -13,11 +13,11 @@
 
 |          |      Ⅰ      |               Ⅱ               |    Ⅲ    |                  Ⅳ                  |    Ⅴ    |    Ⅵ    |
 |  :----:  |  -----------  |  ----------------------------  |  -------  |  ----------------------------------  |  ------  |  -------  |
-|   ◇ 基础   | :coffee: Java | :globe_with_meridians: JavaWEB | :warning:  JVM |   :building_construction: 设计模式 | :straight_ruler: 数据结构 | :triangular_ruler: 算法 |
-| ◇ 框架 | :leaves: Spring | :baby_chick: MyBatis | :no_entry_sign: shiro |  |  |  |
-| ◇ 存储 | :floppy_disk: 数据库 | :dolphin: MySQL | :hourglass: 缓存 |  |  |  |
-| ◇ 系统 | :computer: 操作系统 | :penguin: Linux |  |  |  |  |
-| ◇ 网络 | ☁️ 计算机网络 |  |  |  |  |  |
+|   基础（basic）   | :coffee: Java | :globe_with_meridians: JavaWEB | :warning:  JVM |   :building_construction: 设计模式 | :straight_ruler: 数据结构 | :triangular_ruler: 算法 |
+| 框架（framework） | :leaves: Spring | :baby_chick: MyBatis | :no_entry_sign: shiro |  |  |  |
+| 存储（memory） | :floppy_disk: 数据库 | :dolphin: MySQL | :hourglass: 缓存 |  |  |  |
+| 系统（system） | :computer: 操作系统 | :penguin: Linux |  |  |  |  |
+| 网络（network） | ☁️ 计算机网络 |  |  |  |  |  |
 
 
 
