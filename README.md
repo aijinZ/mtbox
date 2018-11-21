@@ -11,8 +11,8 @@
 
 > Moonlight Treasure Box（月光宝盒）：存放着从网络和书籍中搜刮的知识点，等穿越到古代造计算机用。
 
-|          |      Ⅰ      |               Ⅱ               |    Ⅲ    |                  Ⅳ                  |    Ⅴ    |    Ⅵ    |
-|  :----:  |  -----------  |  ----------------------------  |  -------  |  ----------------------------------  |  ------  |  -------  |
+| 类别 |      Ⅰ      |               Ⅱ               |    Ⅲ    |                  Ⅳ                  |    Ⅴ    |    Ⅵ    |
+|   -----  |  -----------  |  ----------------------------  |  -------  |  ----------------------------------  |  ------  |  -------  |
 |   基础（basic）   | :coffee: Java | :globe_with_meridians: JavaWEB | :warning:  JVM |   :building_construction: 设计模式 | :straight_ruler: 数据结构 | :triangular_ruler: 算法 |
 | 框架（framework） | :leaves: Spring | :baby_chick: MyBatis | :no_entry_sign: shiro |  |  |  |
 | 存储（memory） | :floppy_disk: 数据库 | :dolphin: MySQL | :hourglass: 缓存 |  |  |  |
