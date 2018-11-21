@@ -18,6 +18,7 @@
 | - 存储 - | :floppy_disk: 数据库 | :dolphin: MySQL | :hourglass: 缓存 |  |  |  |
 | - 系统 - | :computer: 操作系统 | :penguin: Linux |  |  |  |  |
 | - 网络 - | ☁️ 计算机网络 |  |  |  |  |  |
+| - 前端 - | :v: Vue | :six: ES6 |  | | | |
 
 
 
