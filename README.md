@@ -15,7 +15,7 @@
 |   :---:  |  -----------  |  ----------------------------  |  -------  |  ----------------------------------  |  ------  |  -------  |
 |   基础   | :coffee: Java | :globe_with_meridians: JavaWEB | :warning:  JVM |   :building_construction: 设计模式 | :straight_ruler: 数据结构 | :triangular_ruler: 算法 |
 | 框架 | :leaves: Spring | :bird: MyBatis | :no_entry_sign: Shiro |  |  |  |
-| 存储 | :floppy_disk: 数据库 | :dolphin: MySQL | :hourglass: 缓存 |  |  |  |
+| 存储 | :floppy_disk: 数据库 | :dolphin: MySQL | :hourglass: 缓存 | :hash: Redis | :mag: ElasticSearch |  |
 | 系统 | :computer: 操作系统 | :penguin: Linux |  |  |  |  |
 | 网络 | ☁️ 计算机网络 |  |  |  |  |  |
 | 前端 | :v: Vue | :six: ES6 |  | | | |
