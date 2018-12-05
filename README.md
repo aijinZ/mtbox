@@ -13,9 +13,9 @@
 
 |  |      Ⅰ      |               Ⅱ               |    Ⅲ    |                  Ⅳ                  |    Ⅴ    |    Ⅵ    |
 |   :---:  |  -----------  |  ----------------------------  |  -------  |  ----------------------------------  |  ------  |  -------  |
-|   基础   | :coffee: Java | :globe_with_meridians: JavaWEB | :warning:  JVM |   :building_construction: 设计模式 | :straight_ruler: 数据结构 | :triangular_ruler: 算法 |
-| 框架 | :leaves: Spring | :bird: MyBatis | :no_entry_sign: Shiro |  |  |  |
-| 存储 | :floppy_disk: 数据库 | :dolphin: MySQL | :hourglass: 缓存 | :hash: Redis | :mag: ElasticSearch |  |
+|   基础   | :coffee: Java | :globe_with_meridians: JavaWEB | [:warning:  JVM](#JVM) |   :building_construction: 设计模式 | :straight_ruler: 数据结构 | :triangular_ruler: 算法 |
+| 后端 | :leaves: Spring | :bird: MyBatis | :no_entry_sign: Shiro |  |  |  |
+| 存储 | :floppy_disk: 数据库 | [:dolphin: MySQL](#MySQL) | :hourglass: 缓存 | :hash: Redis | :mag: ElasticSearch |  |
 | 系统 | :computer: 操作系统 | :penguin: Linux |  |  |  |  |
 | 网络 | ☁️ 计算机网络 |  |  |  |  |  |
 | 前端 | :v: Vue | :six: ES6 |  | | | |
@@ -30,7 +30,12 @@
 
 + JSP 隐式对象
 
-### JVM
+### [JVM](./JVM.md)
+
+- Java 内存区域
+- 垃圾收集算法
+- 类加载
+- 双亲委派模型
 
 ### 设计模式
 
