@@ -30,12 +30,12 @@
 
 |  |      Ⅰ      |               Ⅱ               |    Ⅲ    |                  Ⅳ                  |    Ⅴ    |    Ⅵ    |
 |   :---:  |  -----------  |  ----------------------------  |  -------  |  ----------------------------------  |  ------  |  -------  |
-|   基础   | [:coffee: Java](./docs/Java) | [:globe_with_meridians: JavaWEB](./docs/JavaWEB) | [:warning:  JVM](./docs/JVM) | [:building_construction: 设计模式](./docs/设模式) | [:straight_ruler: 数据结构](./docs/数据结构) | [:triangular_ruler: 算法](./docs/算法) |
-| 后端 | [:leaves: Spring](./docs/Spring) | [:bird: MyBatis](./docs/MyBatis) | [:no_entry_sign: Shiro](./docs/Shiro) |  |  |  |
-| 存储 | [:floppy_disk: 数据库](./docs/数据库) | [:dolphin: MySQL](#MySQL) | [:hourglass: 缓存](./docs/缓存) | [:hash: Redis](./docs/Redis) | [:mag: ElasticSearch](./docs/ElasticSearch) |  |
-| 系统 | [:computer: 操作系统](./docs/操作系统) | [:penguin: Linux](./docs/Linux) |  |  |  |  |
-| 网络 | [:cloud: 计算机网络](./docs/计算机网络) |  |  |  |  |  |
-| 前端 | [:v: Vue](./docs/Vue) | [:six: ES6](./docs/ES6) |  | | | |
+|   基础   | [:coffee: Java](./docs/Java.md) | [:globe_with_meridians: JavaWEB](./docs/JavaWEB.md) | [:warning:  JVM](./docs/JVM.md) | [:building_construction: 设计模式](./docs/设计模式.md) | [:straight_ruler: 数据结构](./docs/数据结构.md) | [:triangular_ruler: 算法](./docs/算法.md) |
+| 后端 | [:leaves: Spring](./docs/Spring.md) | [:bird: MyBatis](./docs/MyBatis.md) | [:no_entry_sign: Shiro](./docs/Shiro.md) |  |  |  |
+| 存储 | [:floppy_disk: 数据库](./docs/数据库.md) | [:dolphin: MySQL](#MySQL.md) | [:hourglass: 缓存](./docs/缓存.md) | [:hash: Redis](./docs/Redis.md) | [:mag: ElasticSearch](./docs/ElasticSearch.md) |  |
+| 系统 | [:computer: 操作系统](./docs/操作系统.md) | [:penguin: Linux](./docs/Linux.md) |  |  |  |  |
+| 网络 | [:cloud: 计算机网络](./docs/计算机网络.md) |  |  |  |  |  |
+| 前端 | [:v: Vue](./docs/Vue.md) | [:six: ES6](./docs/ES6.md) |  | | | |
 
 ## License
 
