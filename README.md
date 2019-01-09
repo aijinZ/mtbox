@@ -34,7 +34,7 @@
 | 后端 | [:leaves: Spring](./docs/Spring) | [:bird: MyBatis](./docs/MyBatis) | [:no_entry_sign: Shiro](./docs/Shiro) |  |  |  |
 | 存储 | [:floppy_disk: 数据库](./docs/数据库) | [:dolphin: MySQL](#MySQL) | [:hourglass: 缓存](./docs/缓存) | [:hash: Redis](./docs/Redis) | [:mag: ElasticSearch](./docs/ElasticSearch) |  |
 | 系统 | [:computer: 操作系统](./docs/操作系统) | [:penguin: Linux](./docs/Linux) |  |  |  |  |
-| 网络 | [☁️ 计算机网络](./docs/计算机网络) |  |  |  |  |  |
+| 网络 | [:cloud: 计算机网络](./docs/计算机网络) |  |  |  |  |  |
 | 前端 | [:v: Vue](./docs/Vue) | [:six: ES6](./docs/ES6) |  | | | |
 
 ## License
