@@ -1,11 +1,12 @@
 
 
-
 <div align="center">
     <a href="https://github.com/Angus-Liu/MTBOX">
-        <img src="./assets/logo.png" width="150" alt="Moonlight treasure box"/>
+        <img src="./assets/logo.png" width="480" alt="Moonlight treasure box"/>
     </a>
 </div>
+
+
 
 # MTBOX
 
