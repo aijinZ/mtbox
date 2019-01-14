@@ -2,12 +2,16 @@
 
 ### # 集合框架
 
+> [《Thinking in Java》- 第17章 容器深入研究](https://book.douban.com/subject/2130190/)
+>
 > [这几道Java集合框架面试题几乎必问](https://github.com/Snailclimb/JavaGuide/blob/master/Java%E7%9B%B8%E5%85%B3/%E8%BF%99%E5%87%A0%E9%81%93Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E9%9D%A2%E8%AF%95%E9%A2%98%E5%87%A0%E4%B9%8E%E5%BF%85%E9%97%AE.md)
+>
+> [HashMap工作原理和扩容机制](https://blog.csdn.net/u014532901/article/details/78936283)
 
 #### ArrayList 与 LinkedList 异同
 
 1. **是否保证线程安全：** ArrayList 和 LinkedList 都是不同步的，也就是不保证线程安全；
-2. **底层数据结构：** Arraylist 底层使用的是 Object 数组；LinkedList 底层使用的是双向链表数据结构（注意双向链表和双向循环链表的区别：）；
+2. **底层数据结构：** Arraylist 底层使用的是 Object 数组；LinkedList 底层使用的是双向链表数据结构（注意双向链表和双向循环链表的区别）；
 3. **插入和删除是否受元素位置的影响：** 
    + **ArrayList 采用数组存储，所以插入和删除元素的时间复杂度受元素位置的影响。** 比如：执行 `add(E e) ` 方法的时候， ArrayList 会默认在将指定的元素追加到此列表的末尾，这种情况时间复杂度就是 O(1)。但是如果要在指定位置 i 插入和删除元素的话（`add(int index, E element) `）时间复杂度就为 O(n-i)。因为在进行上述操作的时候集合中第 i 和第 i 个元素之后的(n-i)个元素都要执行向后位/向前移一位的操作。 
    + **LinkedList 采用链表存储，所以插入，删除元素时间复杂度不受元素位置的影响，都是近似 O(1) 而数组为近似 O(n)。**
