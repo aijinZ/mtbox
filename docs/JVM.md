@@ -34,6 +34,8 @@ java.lang.ref 类库包含了一组类，这些类为垃圾回收提供了更大
 ## # 垃圾收集算法
 
 > [《深入理解 Java 虚拟机》- 第 3 章 垃圾收集器与内存分配策略](https://book.douban.com/subject/24722612/)
+>
+> [Java垃圾回收（GC）机制详解](https://www.cnblogs.com/xiaoxi/p/6486852.html)
 
 1.可达性分析算法
 
